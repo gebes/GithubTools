@@ -7,6 +7,7 @@ import (
 
 var (
 	GithubAccessToken string
+	Key               string
 )
 
 func init() {
@@ -16,4 +17,5 @@ func init() {
 	}
 
 	GithubAccessToken = os.Getenv("GITHUB_ACCESS_TOKEN")
+	Key = os.Getenv("KEY")
 }

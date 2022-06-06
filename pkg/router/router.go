@@ -12,6 +12,8 @@ func Listen() error {
 
 	router.Use(middlewares.Cors(middlewares.AllowAllConfiguration()))
 
+	router.Use(KeyMiddleware)
+
 	router.Get("/no-follow-back/:user", UserNoFollowBackGet)
 	router.Get("/contains-file/:owner/:repo", ContainsFileGet)
 
