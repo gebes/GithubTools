@@ -20,13 +20,13 @@ Minimalistic toolkit built around the <a href="https://docs.github.com/en/rest">
     <img src="https://img.shields.io/github/license/Gebes/GithubTools.svg" alt="License">
 </a>
 <a href="https://GitHub.com/Gebes/GithubTools/releases/">
-    <img src="https://img.shields.io/github/release/Gebes/GithubTools" alt="Latest releace">
+    <img src="https://img.shields.io/github/release/Gebes/GithubTools" alt="Latest release">
 </a>
 <a href="https://gocover.io/github.com/Gebes/GithubTools">
-    <img src="https://gocover.io/_badge/github.com/Gebes/GithubTools" alt="Latest releace">
+    <img src="https://gocover.io/_badge/github.com/Gebes/GithubTools" alt="Gocover">
 </a>
 <a href="https://www.codefactor.io/repository/github/Gebes/GithubTools">
-    <img src="https://www.codefactor.io/repository/github/Gebes/GithubTools/badge" alt="Latest releace">
+    <img src="https://www.codefactor.io/repository/github/Gebes/GithubTools/badge" alt="Gocover">
 </a>
 
 <br><br>
